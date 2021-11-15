@@ -19,7 +19,7 @@ Nesse repositorio foi criado um arquivo json-server, para testar aplicações qu
 
   1 - No proprio site do 'my-json-server' tem detalhes do procedimento de como realizar a criação de um arquivo json-server utilizando como hospedagem o seu perfil do github.
   
-  3 - Abaixo referencia em video, em relação a esse procedimento - (Canal youtube: Ronan Adriel Zenatti):
+  2 - Abaixo referencia em video, em relação a esse procedimento - (Canal youtube: Ronan Adriel Zenatti):
   
     [https://www.youtube.com/watch?v=bqAF3sC0OlI](https://www.youtube.com/watch?v=bqAF3sC0OlI)
 
