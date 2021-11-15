@@ -12,14 +12,16 @@ Nesse repositorio foi criado um arquivo json-server, para testar aplicações qu
   2 - Criar um arquivo db.json com as informações que serão consultadas.
   
   3 - Acessar o link do 'my-json-server', complementado o link com os dados do seu perfil do github.
-  Exemplo : ````(https://my-json-server.typicode.com/<your-username>/<your-repo>)````
+  
+    Exemplo : ````(https://my-json-server.typicode.com/<your-username>/<your-repo>)````
 
 - OBS: 
 
   1 - No proprio site do 'my-json-server' tem detalhes do procedimento de como realizar a criação de um arquivo json-server utilizando como hospedagem o seu perfil do github.
   
   3 - Abaixo referencia em video, em relação a esse procedimento - (Canal youtube: Ronan Adriel Zenatti):
-  [https://www.youtube.com/watch?v=bqAF3sC0OlI](https://www.youtube.com/watch?v=bqAF3sC0OlI)
+  
+    [https://www.youtube.com/watch?v=bqAF3sC0OlI](https://www.youtube.com/watch?v=bqAF3sC0OlI)
 
 - Apos criar o link no 'my-json-server', utilizar o mesmo em projetos que tem conexão backend.
   
